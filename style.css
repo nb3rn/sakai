@@ -47,9 +47,9 @@ body {
            overflow: auto;
            margin: 0;
            padding: 0;
-           width: 500px;
-           height: 210px;
-           align-items: middle;
+           width: 900px;
+           height: 610px;
+           align-items: center;
 		}
 		 
 		a {
