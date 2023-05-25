@@ -17,7 +17,7 @@ body {
 			background: transparent;
 			margin: 0;
 			padding: 0;
-			color:white;
+			color:blue;
 			transition: all .5s ease;
 		} 
 		.name {
@@ -35,7 +35,7 @@ body {
 		}
 		.range {
 		   line-height: .01;
-			color: white;
+			color: blue;
 			font-weight: bold;	
 		}
 		p {
@@ -64,7 +64,7 @@ body {
 		}
 		img:hover {
 			width:110px;
-			box-shadow: 0 0 20px black;
+			box-shadow: 0 0 20px white;
 			filter: brightness(120%);
 		}
 		span {
