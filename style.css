@@ -8,7 +8,7 @@ body {
 		transform: translate(-50%, -50%);
 		width: 1110px;
 		height: 375px;
-		box-shadow: 0 10px 20px black;
+		box-shadow: 0 10px 20px blue;
 		color:white;
 		font-family: fantasy;
 		transition: all .5s ease;
@@ -39,6 +39,7 @@ body {
 			font-weight: bold;	
 		}
 		p {
+   color: blue;
 			display: inline;
 			padding: none;
 		}
