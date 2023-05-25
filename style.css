@@ -1,5 +1,5 @@
 body {
-		background: #262626;
+		background: #000000;
 	}
 	div {
 		top: 50%;
@@ -44,12 +44,12 @@ body {
 			padding: none;
 		}
 		.list {
-           background: #3a3a3a;
+           background: #202020;
            overflow: auto;
            margin: 0;
            padding: 0;
-           width: 1080px;
-           height: 720px;
+           width: 1040px;
+           height: 620px;
            align-items: center;
 		}
 		 
